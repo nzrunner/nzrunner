@@ -54,15 +54,15 @@ You can click the Preview link to take a look at your changes.
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=nzrunner&column=9&theme=algolia&no-frame=false"/>
 
 ## GitHub Stats
-<a href="https://github.com/nzrunner/nzrunner">
+<a href="https://github.com/nzrunner">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nzrunner&show_icons=true&count_private=true&theme=algolia" alt="Marathon Software's GitHub Stats" />
 </a>
-<a href="https://github.com/nzrunner/nzrunner">
+<a href="https://github.com/nzrunner">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nzrunner&theme=algolia" />
 </a>
 
 <!--
-<a href="https://github.com/nzrunner/nzrunner">
+<a href="https://github.com/nzrunner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrunner&theme=algolia&layout=compact&show-icons=true&langs_count=5" />
 </a>
 
