@@ -2,7 +2,7 @@
 nzrunner/nzrunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![NZRunner-Banner](/Coffee%20Shop%20Twitter%20Header.png)
+![NZRunner-Banner](/EB2A96C6-1890-40E5-8FC0-2CAA16F14ED3.png)
 ### Welcome to my Github page <img align="right" src="https://komarev.com/ghpvc/?username=nzrunner"/>
 <p>I am a Software Engineer and IT Consultant based in Sydney, Australia. Most of the things I do are in private repositories, but occassionally I might publish some public code.</p>
 
